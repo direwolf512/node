@@ -1,0 +1,9 @@
+{
+  "name": "node_demo",
+  "version": "1.0.0",
+  "description": "learn node",
+  "dependencies": {
+    "socket": "~0.9.6",
+    "mime": "~1.2.7"
+  }
+}
